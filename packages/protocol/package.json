@@ -1,0 +1,19 @@
+{
+  "name": "@anonymous-zether/protocol",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib",
+  "dependencies": {
+    "@truffle/contract": "^4.3.4",
+    "bn.js": "^5.1.1",
+    "eciesjs": "^0.3.14",
+    "elliptic": "^6.5.1",
+    "eslint-import-resolver-lerna": "^1.1.0",
+    "web3": "^1.2.4"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "3.1.0-solc-0.7",
+    "eslint": "^5.16.0",
+    "ganache-core": "^2.11.2"
+  }
+}

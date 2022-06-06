@@ -1,0 +1,3 @@
+# Anonymous Zether
+
+This repo utilizes Anonymous Zether [Anon-Zether](https://github.com/ConsenSys/anonymous-zether) to implement a privacy-preserving protocol, keeping the bidder's anonymity hidden inside a set. The file structure as well as the configuration is part of the Anonymous Zether.Client for bidder and Auctioneer was added. Instructions for initialization can be found in Anonymous Zether's Github.
