@@ -297,7 +297,7 @@ contract("ZSC", async (accounts) => {
     }
   });
 
-  it("should unlock of remaining accounts", async () => {
+  it("should unlock remaining accounts", async () => {
     const wait = away();
 
     console.log(
